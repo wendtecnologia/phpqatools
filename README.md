@@ -1,5 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/wend/phpqatools/v/stable.png)](https://packagist.org/packages/wend/phpqatools) [![Build Status](https://travis-ci.org/wendtecnologia/phpqatools.svg?branch=master)](https://travis-ci.org/wendtecnologia/phpqatools) [![License](https://poser.pugx.org/wend/phpqatools/license.png)](https://packagist.org/packages/wend/phpqatools) 
-PHP QA Tools 
+PHP QA Tools [![Latest Stable Version](https://poser.pugx.org/wend/phpqatools/v/stable.png)](https://packagist.org/packages/wend/phpqatools) [![Build Status](https://travis-ci.org/wendtecnologia/phpqatools.svg?branch=master)](https://travis-ci.org/wendtecnologia/phpqatools) [![License](https://poser.pugx.org/wend/phpqatools/license.png)](https://packagist.org/packages/wend/phpqatools) 
 ============
 
 A meta package for composer of PHP QA Tools, to simplify the installation and configuration of necessary packages:
