@@ -1,4 +1,5 @@
-PHP QA Tools [![Build Status](https://travis-ci.org/wendtecnologia/phpqatools.svg?branch=master)](https://travis-ci.org/wendtecnologia/phpqatools)
+[![Latest Stable Version](https://poser.pugx.org/wend/phpqatools/v/stable.png)](https://packagist.org/packages/wend/phpqatools) [![Build Status](https://travis-ci.org/wendtecnologia/phpqatools.svg?branch=master)](https://travis-ci.org/wendtecnologia/phpqatools) [![License](https://poser.pugx.org/wend/phpqatools/license.png)](https://packagist.org/packages/wend/phpqatools) 
+PHP QA Tools 
 ============
 
 A meta package for composer of PHP QA Tools, to simplify the installation and configuration of necessary packages:
@@ -35,3 +36,4 @@ Testing if its ok:
 # Versioning
 
 Its based on http://semver.org/
+
