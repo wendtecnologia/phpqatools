@@ -1,5 +1,5 @@
 {
-    "name": "wendtecnologia/phpqatools",
+    "name": "wend/phpqatools",
     "description": "A meta composer package for PHP QA Tools.",
     "keywords": ["php", "qa", "tools", "quality"],
     "type": "metapackage",
@@ -23,5 +23,10 @@
         "pdepend/pdepend": "~1.1",
         "phpmd/phpmd": "~1.5",
         "phploc/phploc": "~2.0"
+    },
+    "suggest": {
+        "phing/phing": "PHP project build system based on Apache Ant",
+        "mayflower/php-codebrowser": "A code browser that augments the code with information from various QA tools.",
+        "sensiolabs/security-checker": "A security checker for your composer.lock"
     }
 }
