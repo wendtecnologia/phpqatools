@@ -12,6 +12,9 @@
             "role": "CTO"
         }
     ],
+    "support": {
+        "issues": "https://github.com/wendtecnologia/phpqatools/issues"
+    },
     "config": {
         "bin-dir": "bin",
         "vendor-dir": "vendor"
