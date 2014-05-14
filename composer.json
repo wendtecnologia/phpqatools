@@ -1,0 +1,27 @@
+{
+    "name": "wendtecnologia/phpqatools",
+    "description": "A meta composer package for PHP QA Tools.",
+    "keywords": ["php", "qa", "tools", "quality"],
+    "type": "metapackage",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Walker de Alencar",
+            "email": "walkeralencar@gmail.com",
+            "homepage": "http://wend.com.br"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin",
+        "vendor-dir": "vendor"
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "~1.5",
+        "phpunit/phpunit": "~4.0",
+        "sebastian/phpcpd": "~2.0",
+	"phpdocumentor/phpdocumentor":"~2.4",
+        "pdepend/pdepend": "~1.1",
+        "phpmd/phpmd": "~1.5",
+        "phploc/phploc": "~2.0",
+    }
+}
