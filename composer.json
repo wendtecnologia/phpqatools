@@ -22,6 +22,6 @@
 	"phpdocumentor/phpdocumentor":"~2.4",
         "pdepend/pdepend": "~1.1",
         "phpmd/phpmd": "~1.5",
-        "phploc/phploc": "~2.0",
+        "phploc/phploc": "~2.0"
     }
 }
