@@ -3,12 +3,13 @@
     "description": "A meta composer package for PHP QA Tools.",
     "keywords": ["php", "qa", "tools", "quality"],
     "type": "metapackage",
-    "license": "LGPL",
+    "license": "LGPL-3.0+",
     "authors": [
         {
             "name": "Walker de Alencar",
             "email": "walkeralencar@gmail.com",
-            "homepage": "http://wend.com.br"
+            "homepage": "http://wend.com.br",
+            "role": "CTO"
         }
     ],
     "config": {
