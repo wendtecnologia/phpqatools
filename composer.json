@@ -21,12 +21,12 @@
     },
     "require": {
         "squizlabs/php_codesniffer": "~1.5",
-        "phpunit/phpunit": "~4.0",
         "sebastian/phpcpd": "~2.0",
 	"phpdocumentor/phpdocumentor":"~2.4",
         "pdepend/pdepend": "~1.1",
         "phpmd/phpmd": "~1.5",
-        "phploc/phploc": "~2.0"
+        "phploc/phploc": "~2.0",
+        "phing/phing": "~2.11"
     },
     "suggest": {
         "phing/phing": "PHP project build system based on Apache Ant",
